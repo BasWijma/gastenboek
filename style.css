@@ -1,0 +1,37 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+
+table {
+	border: 1px solid black;
+	font-size: 13px;
+	width: 500px;
+	margin-bottom: 10px;
+}
+table th {
+	background-color:  #CCE2F4;
+	text-align: left;
+	padding: 3px;
+	border-bottom: 1px solid black;
+	font-weight: normal;
+}
+table td {
+	padding: 10px;
+	line-height: 1.5em;
+}
+
+input[type="text"] {
+	padding: 6px;
+	width: 200px;
+	border-radius: 5px;
+	border: 1px solid grey;
+	font-size: 16px;
+	margin: 2px 0;
+}
+textarea {
+	width: 500px;
+	height: 200px;
+	padding: 10px;
+	font-size: 14px;
+}
